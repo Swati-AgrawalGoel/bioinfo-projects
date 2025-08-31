@@ -2,4 +2,5 @@
 
 answers go here
 
-# can you see me now?
+# I have set up a git repository for this week's assignment.
+
